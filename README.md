@@ -2,6 +2,14 @@
 
 A local, read-only C# CLI for reviewing the published Web.config of classic ASP.NET applications on .NET Framework. Scan the output of your Release publish step to see settings after deployment transforms have been applied.
 
+## Request a security review
+
+The CLI is free and open source, including all five checks, JSON output, and CI usage. For a deeper look at your deployment, request a paid, fixed-scope review for one .NET application. You receive prioritized findings, practical fixes, and one follow-up check.
+
+[Request a security review](https://github.com/BesartPrebreza/dotnet-security-check/issues/new?template=security-review-request.md) · [See scope and deliverables](docs/security-review.md)
+
+The request opens a public GitHub issue. Share only general information about your stack and what you want reviewed. Arrange a private channel before sharing project materials.
+
 ## Try it
 
 With the .NET 10 SDK installed, run from the repository root.
